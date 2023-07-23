@@ -1,0 +1,12 @@
+Scikit-learn
+Xgboost
+Imblearn
+Scipy
+Pandas
+Plotly
+Seaborn
+Matplotlib
+Thompson 
+Tensorflow
+torch
+gradio
